@@ -1,35 +1,19 @@
-# <div align="center">
+# About
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=28\&pause=1500\&color=58A6FF\&center=true\&vCenter=true\&width=900\&lines=Reverse+Engineer;Firmware+Researcher;Linux+Kernel+Explorer;Building+Security+Tools;Question+the+Defaults.)](https://git.io/typing-svg)
+I enjoy understanding how systems work beneath the surface.
 
-</div>
-
-<div align="center">
-
-**Reverse Engineering • Firmware Research • Linux Kernel • Android Internals**
-
-*"Question the defaults."*
-
-</div>
-
----
-
-## About Me
-
-I'm interested in understanding how software works below the surface.
-
-Most of my work focuses on reverse engineering, Android firmware, Linux kernel internals, and building practical tools that automate repetitive research tasks. I enjoy analyzing binaries, documenting research, and creating utilities that make low-level security work more efficient.
+My work focuses on reverse engineering, Android firmware, Linux kernel internals, and building tools that automate repetitive analysis instead of replacing the need to understand it.
 
 ---
 
 ## Current Focus
 
 * Reverse Engineering
-* Firmware Analysis
-* Android Internals
-* Linux Kernel Research
+* Firmware Research
+* Android Platform Security
+* Linux Kernel
 * Binary Analysis
-* Security Tool Development
+* Security Tooling
 
 ---
 
@@ -37,65 +21,48 @@ Most of my work focuses on reverse engineering, Android firmware, Linux kernel i
 
 ### 🛡 koaudit
 
-Static Linux kernel module auditor designed to inspect compiled `.ko` modules and identify potentially suspicious behavior before loading.
-
----
+Static analysis tool for compiled Linux kernel modules.
 
 ### 📦 MTK-SuperBuilder
 
-Automation toolkit for MediaTek dynamic partitions, helping simplify `super.img` workflows and firmware research.
+Automation toolkit for MediaTek dynamic partition workflows.
 
----
+### 🔬 reverse-engineering-writeups
 
-### 🔬 Reverse Engineering Writeups
-
-A growing collection of reverse engineering writeups covering malware analysis, crackmes, binary exploitation concepts, and CTF challenges.
-
----
+Practical reverse engineering notes, malware analysis, and CTF writeups.
 
 ### 📱 realme-c55-root-guide
 
-Research and documentation covering MediaTek boot chains, Android Verified Boot (AVB), firmware extraction, rooting, and device internals.
+Research and documentation covering MediaTek boot flow, AVB, firmware extraction, and Android internals.
 
 ---
 
-## Tech Stack
+## Toolchain
 
-### Languages
+**Languages**
 
-* Python
-* C
-* Bash
+`Python` • `C` • `Bash`
 
-### Platforms
+**Platforms**
 
-* Linux
-* Android
-* MediaTek Devices
+`Linux` • `Android` • `ARM64`
 
-### Tools
+**Tools**
 
-* Ghidra
-* IDA Free
-* Radare2
-* GDB
-* Binwalk
-* Git
+`Ghidra` • `IDA Free` • `radare2` • `GDB` • `Binwalk` • `Git`
 
 ---
 
-## Currently Researching
+## Research Interests
 
-* ARM64 Reverse Engineering
+* Linux kernel security
+* ARM64 reverse engineering
 * Android Verified Boot
-* Linux Kernel Security
-* Firmware Extraction
-* Binary Formats
-* Malware Analysis
+* Firmware extraction
+* Static analysis
+* Malware research
 
 ---
-
-## GitHub Stats
 
 <div align="center">
 
@@ -107,45 +74,4 @@ Research and documentation covering MediaTek boot chains, Android Verified Boot 
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-![](https://streak-stats.demolab.com?user=AnonNeo77\&theme=github-dark\&hide_border=true)
-
-</div>
-
----
-
-## Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnonNeo77\&theme=github-dark\&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## Philosophy
-
-> Understand the system before attempting to break it.
-
-> Automation should eliminate repetitive analysis, not replace understanding.
-
----
-
-## Goals
-
-* Build practical security research tools
-* Contribute to open-source security projects
-* Advance reverse engineering and firmware research skills
-* Share technical writeups and documentation
-
----
-
-<div align="center">
-
-**Thanks for visiting.**
-
-</div>
+> *"Understand the system before attempting to change it."*
