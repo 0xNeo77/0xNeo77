@@ -130,10 +130,11 @@ always looking for:
 - got a firmware you need reversed?
 - interested in collaborating on security research?
 - want to discuss why certain rootkits are actually impressive?
-
+  
+  Signal: https://signal.me/#eu/xNeo.77
+  
 hit me up. or don't. i'll probably be staring at ghidra anyway.
 
-Signal: https://signal.me/#eu/xNeo.77
 ---
 
 ## disclaimer
