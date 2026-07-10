@@ -131,7 +131,7 @@ always looking for:
 - interested in collaborating on security research?
 - want to discuss why certain rootkits are actually impressive?
   
-  Signal: https://signal.me/#eu/xNeo.77
+https://signal.me/#eu/YQLiKmInINt5U2BkKnCcPtBDBwsqnONVYL9h3uvMksVEImzwLftDp6m00CNeM2B2
   
 hit me up. or don't. i'll probably be staring at ghidra anyway.
 
