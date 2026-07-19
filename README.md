@@ -27,8 +27,6 @@ the kind of person who reads disassembly for fun. no judgment if you do too.
 - **firmware hacking** → android, bootloaders, partitions—it all falls apart eventually
 - **ctf grinding** → crackmes, hackthebox, just for the sake of it
 
-essentially: i take things apart, see how they're built, and document what i find.
-
 ---
 
 ## the projects
